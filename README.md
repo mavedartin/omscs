@@ -1,5 +1,4 @@
-# omscs
-# Online Masters in Computer Science - GA Tech
+# GA Tech - Online Masters in Computer Science
 
 Below ciriculum:
 - 
