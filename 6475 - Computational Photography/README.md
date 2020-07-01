@@ -1,5 +1,5 @@
 # Computational Photography
-####Git Details
+###Git Details
     • Class Git Repo: https://github.gatech.edu/omscs6475/assignments
     • My Cloned Repo: https://github.gatech.edu/dmartin311/OMSCS6475_assigments
     • My Desktop Folder Location: /c/Users/dmar79/Desktop/My Stuff/"GT OMSCS"/"6475 - Computational Photography"/"Git Repo"
