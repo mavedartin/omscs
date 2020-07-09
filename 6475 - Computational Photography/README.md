@@ -69,10 +69,8 @@
     - Torralba and Freeman (2012). Accidental pinhole and pinspeck cameras: revealing the scene outside the picture. Proceedings of 25th IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012)
     - Ward (2001), “High Dynamic Range Imaging,” Proceedings of the Ninth Color Imaging Conference, November 2001
 
-####Git Details
+#### Git Details
 - **Class Git Repo:** https://github.gatech.edu/omscs6475/assignments
-- **My Cloned Repo:** https://github.gatech.edu/dmartin311/OMSCS6475_assigments
-    - **My Desktop Folder Location:** /c/Users/dmar79/Desktop/My Stuff/"GT OMSCS"/"6475 - Computational Photography"/"Git Repo"
 
 ```	
  Run the following command:
@@ -87,6 +85,6 @@
     conda install -c clinicalgraphics vtk
 ```
 
-####Additional Material
+#### Additional Material
 - **Piazza:** https://piazza.com/class/jqi667i5b4x5c3
 - **Canvas:** https://gatech.instructure.com/courses/30886
