@@ -1,6 +1,5 @@
 # Computational Photography
-####Assigments
-
+###Assigments
 -[ ] Just a Photograph: Share on picture to get started
 -[ ] Epsilon Photography: N pictures with Epsilon Difference
 -[ ] Camera Obscura: Build a PinHole Camera
