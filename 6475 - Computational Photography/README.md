@@ -1,14 +1,15 @@
 # Computational Photography
-###Assigments
--[ ] Just a Photograph: Share on picture to get started
--[ ] Epsilon Photography: N pictures with Epsilon Difference
--[ ] Camera Obscura: Build a PinHole Camera
--[ ] Blending: Experiment with Image Blending
--[ ] Panoramas: Build a Simple Panorama
--[ ] HDR: Experiments with HDR
--[ ] Video Textures: Build a Video Texture
 
-####Reference Material
+#### Assignments
+- [ ] Just a Photograph: Share on picture to get started
+- [ ] Epsilon Photography: N pictures with Epsilon Difference
+- [ ] Camera Obscura: Build a PinHole Camera
+- [ ] Blending: Experiment with Image Blending
+- [ ] Panoramas: Build a Simple Panorama
+- [ ] HDR: Experiments with HDR
+- [ ] Video Textures: Build a Video Texture
+
+#### Reference Material
 ##### Associated Readings:
 - **Books**
     - Szeliski (2010), Computer Vision: Algorithms and Applications, Springer
