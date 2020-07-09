@@ -2,5 +2,5 @@
 Graduate studies toward specialization in ML, Robotics
 
 ### Ciriculum:
-- 
+- [ ] Computational Photography
 
