@@ -1,12 +1,23 @@
 # Computational Photography
-####Git Details
-    • Class Git Repo: https://github.gatech.edu/omscs6475/assignments
-    • My Cloned Repo: https://github.gatech.edu/dmartin311/OMSCS6475_assigments
-    • My Desktop Folder Location: /c/Users/dmar79/Desktop/My Stuff/"GT OMSCS"/"6475 - Computational Photography"/"Git Repo"
-	• Steps to Refresh the Git folders:
+#### Assignments
+- [ ] Just a Photo: Share one picture to get started with the class
+- [ ] Epsilon Photography: N pictures with Epsilon Difference
+- [ ] Camera Obscura: Build a PinHole Camera
+- [ ] Blending: Experiment with Image Blending
+- [ ] Panoramas: Build a Simple Panorama
+- [ ] HDR: Experiments with HDR
+- [ ] Video Textures: Build a Video Texture
+
+
+#### Git Details
+
+- **Class Git Repo:** https://github.gatech.edu/omscs6475/assignments
+- **My Cloned Repo:** https://github.gatech.edu/dmartin311/OMSCS6475_assigments
+    - **My Desktop Folder Location:** /c/Users/dmar79/Desktop/My Stuff/"GT OMSCS"/"6475 - Computational Photography"/"Git Repo"
+	- **Steps to Refresh the Git folders:**
 		1. For my Github Repo need to run a git pull - so change the directory to:  /c/Users/dmar79/assignments.git/OMSCS6475_assigments . Then run a git pull
 		2. For My Desktop folder location need to run a git pull  - so change the directory to: /c/Users/dmar79/Desktop/"My Stuff"/"GT OMSCS"/"6475 - Computational Photography"/"Git Repo"/OMSCS6475_lab_exercises . then run the git pull
-	
+```	
     Run the following command:
     conda install -c https://conda.binstar.org/menpo opencv
     I realized that opencv3 is also available now, run the following command:
@@ -17,5 +28,11 @@
     conda install opencv (or opencv3)
     Edit on Aug 14, 2017: "clinicalgraphics" channel provides relatively newer vtk version for very recent python3
     conda install -c clinicalgraphics vtk
+```
 
 
+#### Additional Reference Material
+
+- **Syllabus:** http://bit.ly/CPatGT-Sp19
+- **Piazza:** https://piazza.com/gatech/spring2019/omscs6475/home
+- **Canvas:** https://gatech.instructure.com/courses/64992
