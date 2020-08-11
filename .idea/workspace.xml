@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cf702eb-9816-4096-b09e-95629723a354" name="Default Changelist" comment="Reference material and formatting" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="mavedartin" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="omscs" />
+  </component>
+  <component name="JupyterTrust" id="e8633c33-e00b-417d-a0f6-d69e27016f8c" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dzxA25AZRprxbna0wH1ranwLff" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8803 - AI Ethics &amp; Society" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmar79\Desktop\My Stuff\GT OMSCS\github_omscs\8803 - AI Ethics &amp; Society" />
+      <recent name="C:\Users\dmar79\Desktop\My Stuff\GT OMSCS\github_omscs\6475 - Computational Photography" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.File_2">
+    <configuration name="File_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="github_omscs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dmar79\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python-config" type="PythonConfigurationType" factoryName="Python">
+      <module name="github_omscs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dmar79\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6475 - Computational Photography" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6475 - Computational Photography/File3_CompPhoto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Testing_File" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="github_omscs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing_File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python-config" />
+      <item itemvalue="Python.File_2" />
+      <item itemvalue="Python.Testing_File" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Testing_File" />
+        <item itemvalue="Python.Testing_File" />
+        <item itemvalue="Python.Testing_File" />
+        <item itemvalue="Python.Testing_File" />
+        <item itemvalue="Python.Testing_File" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cf702eb-9816-4096-b09e-95629723a354" name="Default Changelist" comment="" />
+      <created>1593441575186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593441575186</updated>
+      <workItem from="1593441577567" duration="6317000" />
+      <workItem from="1593452737154" duration="7125000" />
+      <workItem from="1593465011468" duration="138000" />
+      <workItem from="1593465175021" duration="19189000" />
+      <workItem from="1594315186320" duration="7145000" />
+      <workItem from="1595893346782" duration="603000" />
+      <workItem from="1596823041445" duration="526000" />
+      <workItem from="1597173460132" duration="1781000" />
+    </task>
+    <task id="LOCAL-00001" summary="testing file 1 push">
+      <created>1593451586050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593451586050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modified the readme file in the master branch">
+      <created>1593451978112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593451978112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Comments to Test_File 1 to commit to Master Local branch">
+      <created>1593452154077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593452154077</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Local Master to Remote Master">
+      <created>1593452447790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593452447790</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete Test File 2">
+      <created>1593452835495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593452835495</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Delete Test File 2">
+      <created>1593459024858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593459024858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Local Branch to Local Master">
+      <created>1593460952513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593460952513</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Secondary branch Updates to Testing_File.py">
+      <created>1593464360054</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593464360054</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Branch 1 Test File modification to Master">
+      <created>1593467827443</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593467827443</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Branch 2 File 2 to Branch 1">
+      <created>1593476106862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593476106862</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Branch 2 File 2">
+      <created>1593477107018</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593477107018</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Branch 2 File 2">
+      <created>1593479344192</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593479344192</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Branch 2 File 2">
+      <created>1593480217696</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593480217696</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Branch Branch to Branch 1">
+      <created>1593482870435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593482870435</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Branch Branch to Branch 1">
+      <created>1593483693779</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593483693779</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changes to File2">
+      <created>1593483895036</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593483895036</updated>
+    </task>
+    <task id="LOCAL-00017" summary="File2 to Comp Photography">
+      <created>1593566722384</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593566722384</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Delete File 2">
+      <created>1593568257201</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593568257201</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Adding Comp Photo Folder &amp; Files">
+      <created>1593568357461</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593568357461</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Comp Photo ReadMe">
+      <created>1593569992889</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1593569992889</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated Readme">
+      <created>1594319135971</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594319135971</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Reference material and formatting">
+      <created>1594321018322</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594321018322</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing file 1 push" />
+    <MESSAGE value="Modified the readme file in the master branch" />
+    <MESSAGE value="Comments to Test_File 1 to commit to Master Local branch" />
+    <MESSAGE value="Commit Local Master to Remote Master" />
+    <MESSAGE value="Delete Test File 2" />
+    <MESSAGE value="Local Branch to Local Master" />
+    <MESSAGE value="Secondary branch Updates to Testing_File.py" />
+    <MESSAGE value="Branch 1 Test File modification to Master" />
+    <MESSAGE value="Branch 2 File 2 to Branch 1" />
+    <MESSAGE value="Branch 2 File 2" />
+    <MESSAGE value="Branch Branch to Branch 1" />
+    <MESSAGE value="changes to File2" />
+    <MESSAGE value="File2 to Comp Photography" />
+    <MESSAGE value="Delete File 2" />
+    <MESSAGE value="Adding Comp Photo Folder &amp; Files" />
+    <MESSAGE value="Comp Photo ReadMe" />
+    <MESSAGE value="Updated Readme" />
+    <MESSAGE value="Reference material and formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reference material and formatting" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="109" key="#File_2" timestamp="1593470539338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1010" y="109" key="#File_2/0.0.1920.1040@0.0.1920.1040" timestamp="1593470539338" />
+    <state x="926" y="201" key="#Inspections" timestamp="1593467434904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="201" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1593467434904" />
+    <state x="601" y="96" key="#Project_Structure" timestamp="1593479251469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="96" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593479251469" />
+    <state x="1150" y="109" key="#Python-config" timestamp="1593441906561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1150" y="109" key="#Python-config/0.0.1920.1040@0.0.1920.1040" timestamp="1593441906561" />
+    <state x="1044" y="109" key="#Testing_File" timestamp="1593476065047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1044" y="109" key="#Testing_File/0.0.1920.1040@0.0.1920.1040" timestamp="1593476065047" />
+    <state x="269" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593567528008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="269" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593567528008" />
+    <state x="1260" y="214" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1593482140682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1260" y="214" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593482140682" />
+    <state x="1047" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593467542354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1047" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1593467542354" />
+    <state x="86" y="134" width="1708" height="847" key="DiffContextDialog" timestamp="1594320888506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="86" y="134" width="1708" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594320888506" />
+    <state x="648" y="269" width="852" height="491" key="FileChooserDialogImpl" timestamp="1596823132662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="269" width="852" height="491" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596823132662" />
+    <state x="617" y="246" width="1028" height="411" key="Github.CreatePullRequestDialog" timestamp="1597175242636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="246" width="1028" height="411" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597175242636" />
+    <state width="496" height="278" key="GridCell.Tab.0.bottom" timestamp="1593709528858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="496" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528858" />
+    <state width="496" height="278" key="GridCell.Tab.0.center" timestamp="1593709528858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="496" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528858" />
+    <state width="496" height="278" key="GridCell.Tab.0.left" timestamp="1593709528858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="496" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528858" />
+    <state width="496" height="278" key="GridCell.Tab.0.right" timestamp="1593709528858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="496" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528858" />
+    <state width="457" height="347" key="GridCell.Tab.1.bottom" timestamp="1593709528814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528814" />
+    <state width="457" height="347" key="GridCell.Tab.1.center" timestamp="1593709528812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528812" />
+    <state width="457" height="347" key="GridCell.Tab.1.left" timestamp="1593709528812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528812" />
+    <state width="457" height="347" key="GridCell.Tab.1.right" timestamp="1593709528814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="457" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593709528814" />
+    <state x="571" y="115" width="1288" height="666" key="IDE.errors.dialog" timestamp="1593449966823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="115" width="1288" height="666" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593449966823" />
+    <state x="197" y="98" key="MergeDialog" timestamp="1594319192390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="197" y="98" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594319192390" />
+    <state x="1078" y="284" key="MultipleFileMergeDialog" timestamp="1594319192401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1078" y="284" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594319192401" />
+    <state x="1105" y="227" width="672" height="592" key="NewModule_or_Project.wizard" timestamp="1593465082299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="227" width="672" height="592" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593465082299" />
+    <state x="826" y="65" key="SettingsEditor" timestamp="1593568949408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="65" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593568949408" />
+    <state x="813" y="100" width="931" height="847" key="ShowDiffWithBranchDialog" timestamp="1593483257778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="100" width="931" height="847" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593483257778" />
+    <state x="790" y="389" key="VCS.EditChangelistDialog" timestamp="1593476319901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="389" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593476319901" />
+    <state x="478" y="47" key="Vcs.Push.Dialog.v2" timestamp="1597175216160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="47" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597175216160" />
+    <state x="672" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1593464326358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593464326358" />
+    <state x="1030" y="252" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1593566738130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1030" y="252" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593566738130" />
+    <state x="329" y="100" width="1498" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593482823617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="100" width="1498" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593482823617" />
+    <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593482206131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593482206131" />
+    <state x="1179" y="236" key="git4idea.branch.GitSmartOperationDialog" timestamp="1593465267348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="236" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593465267348" />
+    <state x="706" y="282" width="943" height="424" key="git4idea.merge.GitMergeDialog" timestamp="1593482639946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="282" width="943" height="424" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593482639946" />
+    <state x="973" y="248" key="git4idea.merge.GitPullDialog" timestamp="1597175185301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="248" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597175185301" />
+    <state x="1046" y="417" key="git4idea.ui.GitResetDialog" timestamp="1593465391865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="417" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593465391865" />
+    <state x="1046" y="422" key="git4idea.ui.GitStashDialog" timestamp="1593465746737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="422" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593465746737" />
+    <state x="342" y="116" key="new project wizard" timestamp="1593465442203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="116" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593465442203" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/github_omscs$File_2.coverage" NAME="File_2 Coverage Results" MODIFIED="1593567408642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_omscs$Testing_File.coverage" NAME="Testing_File Coverage Results" MODIFIED="1593483844319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_omscs$Python_config.coverage" NAME="Python-config Coverage Results" MODIFIED="1593567531319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6475 - Computational Photography" />
+  </component>
+</project>
