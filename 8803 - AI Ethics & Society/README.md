@@ -20,5 +20,6 @@
     - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil
 
 #### Additional Material
-- **Piazza:** 
-- **Canvas:** 
+- Piazza: via Canvas
+- Canvas: https://gatech.instructure.com/courses/150146
+- Slack: http://omscsethics.slack.com/
