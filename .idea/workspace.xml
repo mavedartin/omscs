@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cf702eb-9816-4096-b09e-95629723a354" name="Default Changelist" comment="Reference material and formatting" />
+    <list default="true" id="8cf702eb-9816-4096-b09e-95629723a354" name="Default Changelist" comment="Tethics">
+      <change beforePath="$PROJECT_DIR$/8803 - AI Ethics &amp; Society/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/8803 - AI Ethics &amp; Society/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,6 +209,7 @@
       <workItem from="1595893346782" duration="603000" />
       <workItem from="1596823041445" duration="526000" />
       <workItem from="1597173460132" duration="1781000" />
+      <workItem from="1597677876082" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="testing file 1 push">
       <created>1593451586050</created>
